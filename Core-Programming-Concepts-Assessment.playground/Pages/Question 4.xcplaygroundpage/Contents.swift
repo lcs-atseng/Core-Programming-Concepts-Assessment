@@ -23,6 +23,12 @@
  
  */
 // Answer question 4 below
+var appsUsed = 5
+var hoursSpend = 4
+var mostPopularApp = "Instagram"
+var dateOfDay = 01/08/2018
+
+print("The most popular app of a day depends on what apps you used in that day. However, those values may vary in different days.")
 
 /*:
  ## Now share your understanding

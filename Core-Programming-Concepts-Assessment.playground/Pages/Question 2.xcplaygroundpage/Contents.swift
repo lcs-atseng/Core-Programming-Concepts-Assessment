@@ -24,7 +24,14 @@
  
  */
 // Answer question 2 below
-
+let bookName = "neverLetMeGo"
+var copiesSold = 500
+let authorName = "Kazuo"
+let sellingPrice = 15
+let yearPublished = 1999
+print(bookName ,authorName)
+print(copiesSold*sellingPrice)
+print(yearPublished)
 /*:
  ## Now share your understanding
  

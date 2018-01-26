@@ -23,7 +23,19 @@
  
  */
 // Answer question 3 below
+var spendingMoney = 0.0
+//grandparents give 50
+spendingMoney += 50
+//spend one third
+spendingMoney *= 2/3
+//get 10
+spendingMoney += 10
+//give 10
+spendingMoney -= 10
+//spend 5.5
+spendingMoney -= 5.5
 
+print(spendingMoney)
 /*:
  ## Now share your understanding
  
